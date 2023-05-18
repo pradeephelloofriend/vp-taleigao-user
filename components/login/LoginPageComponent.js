@@ -22,7 +22,7 @@ const LoginPageComponent = () => {
         <div className="signin-sidebar-body">
         
         
-          <a href="#" className="sidebar-logo mg-b-40"><span>Village Panchayat, Chicalim</span></a>
+          <a href="#" className="sidebar-logo mg-b-40"><span>Village Panchayat, Taleigao</span></a>
           <h4 className="signin-title">Welcome back!</h4>
           <h5 className="signin-subtitle">Please signin to continue.</h5>
 
